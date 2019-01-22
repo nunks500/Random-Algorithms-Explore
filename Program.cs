@@ -11,7 +11,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string[] ArrayOfObjects = new string[] { "1", "3", "sex" };
+            string[] ArrayOfObjects = new string[] { "1", "3", "hey" };
             ArrayOfObjects = func1(ArrayOfObjects);
             Console.WriteLine(ArrayOfObjects);
 
